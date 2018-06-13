@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keenan Cole on Keenan Cole</title>
+    <link>/</link>
+    <description>Recent content in Keenan Cole on Keenan Cole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mythos Unbound</title>
+      <link>/project/mythos/</link>
+      <pubDate>Wed, 13 Jun 2018 12:43:11 -0500</pubDate>
+      
+      <guid>/project/mythos/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/m0_JKJ3cFzU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Mythos Unbound is an educational game designed to Greek and roman mythology in a full semester online course. Students play as a new Roman slave who must become literate in Roman culture in order to obtain their freedom. As students are taught about mythology, they enter into various levels designed to emphasize a particular characteristic of that myth. The myths include the Theogony, Odyssey, Alcestis,  Bacchae, the Oresteia and the Metamorphoses.&lt;/p&gt;
+
+&lt;p&gt;I developed the first and third person controller for all the levels, and designed a cooking game. I also further developed the character controllers and designed the levels for Calypso’s Island and Alcestis (Hercule’s going into the underworld).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/mythos/Odyssey1.png&#34; alt=&#34;image alt text&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Saeculum</title>
+      <link>/project/saeculum/</link>
+      <pubDate>Wed, 13 Jun 2018 12:20:35 -0500</pubDate>
+      
+      <guid>/project/saeculum/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/31Hz6GOROjk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Saeculum is first person narrative game designed for a full semester college course.&lt;/p&gt;
+
+&lt;p&gt;The game is divided in four parts or “arcs” each depicting a specific era of Rome’s history. Students play as one of the ancestors of the Fulvii family through these different ages where they must help fellow politicians and clients the problems that plague Rome in that particular era. In Arc 1, Rome is in the midst of the 2nd Punic War where Hannibal ravages the country side, and students must help Scipio Africanus to convince the senator to take the fight back to Carthage. In Arc 2, students come to aid of Tiberius Gracchus, who sees the need for drastic land reform, if new citizens and veterans are to have a stable way of life. In Arc 3, students must outsmart the devious Augustus Caesar while trapped as a Vestal Virgin, if they hope to continue the family legacy.&lt;/p&gt;
+
+&lt;p&gt;Working with artists and the lead software engineer, I developed the character pipeline that entailed creating 100+ characters for this ambitious game. We implemented lip syncing, dynamic facial and eye animations along with a combat system.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/saeculum/AtriumVestaeGarden.png&#34; alt=&#34;image alt text&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

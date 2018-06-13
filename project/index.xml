@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Keenan Cole</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Keenan Cole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 13 Jun 2018 12:43:11 -0500</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mythos Unbound</title>
+      <link>/project/mythos/</link>
+      <pubDate>Wed, 13 Jun 2018 12:43:11 -0500</pubDate>
+      
+      <guid>/project/mythos/</guid>
+      <description>Mythos Unbound is an educational game designed to Greek and roman mythology in a full semester online course. Students play as a new Roman slave who must become literate in Roman culture in order to obtain their freedom. As students are taught about mythology, they enter into various levels designed to emphasize a particular characteristic of that myth. The myths include the Theogony, Odyssey, Alcestis, Bacchae, the Oresteia and the Metamorphoses.</description>
+    </item>
+    
+    <item>
+      <title>Saeculum</title>
+      <link>/project/saeculum/</link>
+      <pubDate>Wed, 13 Jun 2018 12:20:35 -0500</pubDate>
+      
+      <guid>/project/saeculum/</guid>
+      <description>Saeculum is first person narrative game designed for a full semester college course.
+The game is divided in four parts or “arcs” each depicting a specific era of Rome’s history. Students play as one of the ancestors of the Fulvii family through these different ages where they must help fellow politicians and clients the problems that plague Rome in that particular era. In Arc 1, Rome is in the midst of the 2nd Punic War where Hannibal ravages the country side, and students must help Scipio Africanus to convince the senator to take the fight back to Carthage.</description>
+    </item>
+    
+  </channel>
+</rss>
