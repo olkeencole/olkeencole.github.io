@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Custom Section</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
@@ -38,16 +48,6 @@ For the past 10 years, I&amp;rsquo;ve enjoyed a wide range of responsibilities w
       
       <guid>/home/posts/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
